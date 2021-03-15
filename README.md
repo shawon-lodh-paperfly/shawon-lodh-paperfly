@@ -6,4 +6,4 @@
 - 👀 I’m interested in Native Android App Development as well as Cross Platfrom App Development
 - 🌱 I’m currently learning Flutter
 - 📫 Reach me through Linked In or Facebook
-- ⚡ Fun fact: I am very lazy when I don't have work but When I have work I am under a lot of pressure.
+<!-- - ⚡ Fun fact: I am very lazy when I don't have work but When I have work I am under a lot of pressure.   -->
